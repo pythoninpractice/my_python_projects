@@ -1,0 +1,10 @@
+
+1. Create a fibonacci sequence with numbers < 10**100
+
+2. Get only the numbers that the sum of their digits is even
+
+3. Get only the numbers that the count of their digits is even
+
+4. Split each number and replace it with the product of the 2 parts
+
+5. Save the list to a json file

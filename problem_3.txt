@@ -1,0 +1,7 @@
+
+1. Open the file problem_3_names.txt
+2. Remove empty rows
+3. Order the names by Last Name
+4. Add numbers 1. , 2. , 3. in front of each name
+5. Remove the last 5 names of the list
+6. Save the output
